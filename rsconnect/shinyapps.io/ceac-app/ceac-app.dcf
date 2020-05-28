@@ -1,0 +1,10 @@
+name: ceac-app
+title:
+username:
+account: ceac-app
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2357322
+bundleId: 3190428
+url: https://ceac-app.shinyapps.io/ceac-app/
+when: 1590488232.95811
